@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey!👋 My name is Sergei. I'm 25 years old and I want to change my life for the better.  
 
-<!--
-**siarheichura/siarheichura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 I’m currently stydying front-end development in [TeachMeSkills](https://teachmeskills.by/).
 
-Here are some ideas to get you started:
+### 🔭 Looking for any job as a trainee or junior front-end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📭 Contacts 
+- **Yandex:** chura14@yandex.ru
+- **Telegram:** @serik_volk
+
+<img src='https://github-readme-stats.vercel.app/api?username=siarheichura&&show_icons=true&hide_border=true'>
+
+### 📈 Codewars
+<img src='https://www.codewars.com/users/seriy_volk/badges/large'>

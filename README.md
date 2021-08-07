@@ -1,12 +1,12 @@
 # Hey!👋 I'm Sergei. I hope to change my life for the better as soon as possible.💪  
 
-#### 🧠 I really want to improve in the direction of Front-end Development. I work a lot and enjoy it.
+### 🧠 I really want to improve in the direction of Front-end Development. I work a lot and enjoy it.
 
-#### 👨‍🎓 I’m currently stydying Front-end Development in [TeachMeSkills](https://teachmeskills.by/).
+### 👨‍🎓 I’m currently stydying Front-end Development in [TeachMeSkills](https://teachmeskills.by/).
 
-#### 🔭 Looking for any job as a trainee or junior front-end developer.
+### 🔭 Looking for any job as a trainee or junior front-end developer.
 
-### 💻 Projects
+### 💻 My Projects
 #### **JavaScript:**
 - [**KanbanBoard**](https://github.com/siarheichura/KanbanBoard)
 - [**TodoList**](https://github.com/siarheichura/ToDo-App)

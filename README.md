@@ -7,20 +7,17 @@
 #### 🔭 Looking for any job as a trainee or junior front-end developer.
 
 ### 💻 Projects
-> #### **HTML + CSS:**
-> #### [**Dashboard**](https://github.com/siarheichura/Dashboard)
-> #### [**Konstruct**](https://github.com/siarheichura/KONSTRUCT-building-company)
-> #### [**AXIT**](https://github.com/siarheichura/AXIT)
-> #### [**Classwork figures**](https://github.com/siarheichura/classwork-figure)
-> #### [**Zoom Hover Effect**](https://github.com/siarheichura/kitties)
-> #### [**Figures**](https://github.com/siarheichura/figures)
-___
-> #### **JavaScript:**
-> #### [**KanbanBoard**](https://github.com/siarheichura/KanbanBoard)
-> #### [**TodoList**](https://github.com/siarheichura/ToDo-App)
-> #### [**ClickCounter**](https://github.com/siarheichura/ClickCounter)
-
-
+### **HTML + CSS:**
+#### [**Dashboard**](https://github.com/siarheichura/Dashboard)
+#### [**Konstruct**](https://github.com/siarheichura/KONSTRUCT-building-company)
+#### [**AXIT**](https://github.com/siarheichura/AXIT)
+#### [**Classwork figures**](https://github.com/siarheichura/classwork-figure)
+#### [**Zoom Hover Effect**](https://github.com/siarheichura/kitties)
+#### [**Figures**](https://github.com/siarheichura/figures)
+### **JavaScript:**
+#### [**KanbanBoard**](https://github.com/siarheichura/KanbanBoard)
+#### [**TodoList**](https://github.com/siarheichura/ToDo-App)
+#### [**ClickCounter**](https://github.com/siarheichura/ClickCounter)
 
 ### 📲 Contacts 
 - **Gmail:** chura.siarhei@gmail.com

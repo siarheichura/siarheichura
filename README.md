@@ -9,6 +9,7 @@
 ### 💻 My Projects
 #### **JavaScript:**
 - [**KanbanBoard**](https://github.com/siarheichura/KanbanBoard)
+- [**WeatherApp**](https://github.com/siarheichura/WeatherApp)
 - [**TodoList**](https://github.com/siarheichura/ToDo-App)
 - [**ClickCounter**](https://github.com/siarheichura/ClickCounter)
 #### **HTML + CSS:**

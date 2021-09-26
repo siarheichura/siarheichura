@@ -27,4 +27,4 @@
 <img src='https://github-readme-stats.vercel.app/api?username=siarheichura&&show_icons=true&hide_border=true'>
 
 ### 📈 Codewars
-<img src='https://www.codewars.com/users/seriy_volk/badges/large'>
+<img src='https://www.codewars.com/users/siarheichura/badges/large'>

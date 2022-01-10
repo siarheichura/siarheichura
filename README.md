@@ -1,4 +1,4 @@
-# Hey!👋 I'm Sergei, a Software Engineer 💻 
+# Hey!👋 I'm Sergei, a Software Engineer (React, Angular) 💻 
 
 ### 📲 Contacts 
 - **Gmail:** chura.siarhei@gmail.com

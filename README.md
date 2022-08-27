@@ -1,4 +1,4 @@
-# Hey!👋 I'm Sergei, a Software Engineer (React, Angular) 💻 
+# Hey!👋 I'm Sergei, a Fullstack Software Engineer (React, Angular, NodeJS, MongoDB) 💻 
 
 ### 📲 Contacts 
 - **Gmail:** chura.siarhei@gmail.com
